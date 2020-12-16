@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\bin\Debug\Lab2 Yukhta Maksym Variant 14.exe.config
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\bin\Debug\Lab2 Yukhta Maksym Variant 14.exe
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\bin\Debug\Lab2 Yukhta Maksym Variant 14.pdb
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\obj\Debug\Lab2 Yukhta Maksym Variant 14.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\obj\Debug\Lab2 Yukhta Maksym Variant 14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\obj\Debug\Lab2 Yukhta Maksym Variant 14.exe
+C:\Users\User\Desktop\C#\Lab2 Yukhta Maksym Variant 14\Lab2 Yukhta Maksym Variant 14\obj\Debug\Lab2 Yukhta Maksym Variant 14.pdb
