@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\bin\Debug\Lab1 Yukhta Maksym Variant 13.exe.config
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\bin\Debug\Lab1 Yukhta Maksym Variant 13.exe
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\bin\Debug\Lab1 Yukhta Maksym Variant 13.pdb
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\obj\Debug\Lab1 Yukhta Maksym Variant 13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\obj\Debug\Lab1 Yukhta Maksym Variant 13.exe
+C:\Users\User\Desktop\Lab1 Yukhta Maksym Variant 13\Lab1 Yukhta Maksym Variant 13\obj\Debug\Lab1 Yukhta Maksym Variant 13.pdb
