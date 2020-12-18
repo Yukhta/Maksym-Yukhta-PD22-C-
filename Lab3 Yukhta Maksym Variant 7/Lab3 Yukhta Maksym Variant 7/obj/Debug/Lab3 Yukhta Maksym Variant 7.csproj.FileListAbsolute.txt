@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\bin\Debug\Lab3 Yukhta Maksym Variant 7.exe.config
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\bin\Debug\Lab3 Yukhta Maksym Variant 7.exe
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\bin\Debug\Lab3 Yukhta Maksym Variant 7.pdb
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\obj\Debug\Lab3 Yukhta Maksym Variant 7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\obj\Debug\Lab3 Yukhta Maksym Variant 7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\obj\Debug\Lab3 Yukhta Maksym Variant 7.exe
+C:\Users\User\Desktop\C#\Lab3 Yukhta Maksym Variant 7\Lab3 Yukhta Maksym Variant 7\obj\Debug\Lab3 Yukhta Maksym Variant 7.pdb
