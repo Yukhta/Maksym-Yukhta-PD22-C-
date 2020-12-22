@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\bin\Debug\Lab 5 Yukhta Maksym.exe.config
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\bin\Debug\Lab 5 Yukhta Maksym.exe
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\bin\Debug\Lab 5 Yukhta Maksym.pdb
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\obj\Debug\Lab 5 Yukhta Maksym.csprojAssemblyReference.cache
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\obj\Debug\Lab 5 Yukhta Maksym.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\obj\Debug\Lab 5 Yukhta Maksym.exe
+C:\Users\User\Desktop\университет 2 курс\C#\Lab 5 Yukhta Maksym\Lab 5 Yukhta Maksym\obj\Debug\Lab 5 Yukhta Maksym.pdb
