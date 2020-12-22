@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\bin\Debug\Lab4 Yukhta Maksym.exe.config
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\bin\Debug\Lab4 Yukhta Maksym.exe
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\bin\Debug\Lab4 Yukhta Maksym.pdb
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\obj\Debug\Lab4 Yukhta Maksym.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\obj\Debug\Lab4 Yukhta Maksym.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\obj\Debug\Lab4 Yukhta Maksym.exe
+C:\Users\User\source\repos\Lab4 Yukhta Maksym\Lab4 Yukhta Maksym\obj\Debug\Lab4 Yukhta Maksym.pdb
