@@ -1,0 +1,15 @@
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.exe
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.deps.json
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.runtimeconfig.json
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.runtimeconfig.dev.json
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.dll
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\Lab2ValeraBilous.pdb
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.csprojAssemblyReference.cache
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.Form1.resources
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.csproj.GenerateResource.cache
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.AssemblyInfoInputs.cache
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.AssemblyInfo.cs
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.csproj.CoreCompileInputs.cache
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.dll
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.pdb
+C:\Users\valera2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Lab2ValeraBilous.genruntimeconfig.cache
