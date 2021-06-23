@@ -1,0 +1,30 @@
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\bin\Debug\lab8(WPF).exe.config
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\bin\Debug\lab8(WPF).exe
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\bin\Debug\lab8(WPF).pdb
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\Lab8_Sem_2.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\App.g.cs
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8(WPF)_MarkupCompile.cache
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8(WPF)_MarkupCompile.lref
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\MainWindow.baml
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8(WPF).g.resources
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8_WPF_.Properties.Resources.resources
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\Lab8_Sem_2.csproj.GenerateResource.cache
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\Lab8_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8(WPF).exe
+C:\Users\volos\Desktop\lab8_Student(WPF)\lab8(WPF)\obj\Debug\lab8(WPF).pdb
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab8_Sem_2.csprojAssemblyReference.cache
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\App.g.cs
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\MainWindow.baml
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\lab8_WPF_.Properties.Resources.resources
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab8_Sem_2.csproj.GenerateResource.cache
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab8_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\bin\Debug\Lab 8 Yukhta Maksym WPF.exe.config
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\bin\Debug\Lab 8 Yukhta Maksym WPF.exe
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\bin\Debug\Lab 8 Yukhta Maksym WPF.pdb
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab 8 Yukhta Maksym WPF_MarkupCompile.cache
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab 8 Yukhta Maksym WPF_MarkupCompile.lref
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab 8 Yukhta Maksym WPF.g.resources
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab 8 Yukhta Maksym WPF.exe
+C:\Users\bezni\Desktop\Lab8_Sem_2\lab8(WPF)\obj\Debug\Lab 8 Yukhta Maksym WPF.pdb

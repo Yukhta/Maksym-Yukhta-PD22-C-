@@ -1,0 +1,6 @@
+textBox:    228
+checkBox1: False
+checkBox2: True
+Height: 477
+Width: 567
+
